@@ -1,3 +1,4 @@
+Verification Address: 0x9257f53FA8a526Bd6C053A67cE0a4eF9F820F14D
 # W-Structure Pack v3 — Discrete Informational Mass Framework
 
 This repository contains the core structure, tables and predictions of the **W-informational mass model**,  
